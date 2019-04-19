@@ -2,6 +2,10 @@
 
 Development in progress...
 
+Activity Bar Icon:
+
+<img src="media/icon.svg" alt="SFDX-UI-ICON" width="50" height="50" />
+
 # sfdx-ui README
 
 This is the README for your extension "sfdx-ui". After writing up a brief description, we recommend including the following sections.
