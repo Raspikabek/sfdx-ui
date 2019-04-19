@@ -1,4 +1,5 @@
-# SFDX UI VS Code Plugin `sfdx-ui` <img src="media/icon.svg" alt="SFDX-UI-ICON" width="50" height="50" />
+# SFDX UI VS Code Plugin `sfdx-ui`
+<img src="media/icon.svg" alt="SFDX-UI-ICON" width="50" height="50" />
 
 Development in progress...
 
